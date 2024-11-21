@@ -1,0 +1,55 @@
+projectName: AI in IAM
+jsonFilePath: ./input.json
+baseUrl: https://guptadeepak.com
+portalHeading: AI in IAM Portal
+portalDescription: >-
+  Explore the intersection of Artificial Intelligence and Identity Access
+  Management.
+portalTitle: AI in IAM - Unlocking the Future of Security
+searchPlaceholder: Search AI and IAM topics...
+useAlphabetsCategory: true
+homeLink: https://guptadeepak.com/
+logoLink: https://guptadeepak.com/
+ctaText: Get Started
+aboutLink: https://guptadeepak.com/about
+productsLink: https://guptadeepak.com/products
+logoImgUrl: https://guptadeepak.com/logo.png
+ctaLink: https://guptadeepak.com/get-started
+copyrightText: © 2023 Deepak Gupta. All rights reserved.
+faviconUrl: https://guptadeepak.com/favicon.ico
+googleTagManagerId: ''
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: Twitter
+    url: https://twitter.com/deepakgupta
+  - platform: LinkedIn
+    url: https://linkedin.com/in/deepakgupta
+theme:
+  primaryColor: '#007bff'
+  secondaryColor: '#6c757d'
+  backgroundColor: '#ffffff'
+  textColor: '#212529'
+  accentColor: '#ffc107'
+fonts:
+  - family: Arial, sans-serif
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Roboto, sans-serif
+    weights:
+      - 500
+      - 600
+      - 700
